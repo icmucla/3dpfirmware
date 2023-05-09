@@ -1,5 +1,5 @@
-//#include <U8glib.h>
-//#include <U8glib-HAL.h>
+#include <U8glib.h>
+#include <U8glib-HAL.h>
 /*==============================================================================
 
   Marlin Firmware
